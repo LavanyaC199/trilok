@@ -1,2 +1,0 @@
-# trilok
-website for jwellery
